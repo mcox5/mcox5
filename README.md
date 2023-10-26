@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Matías Cox
 - 👀 I studied Industrial Engineer at Pontificia Universidad Católica (Chile) (2017-2022)
-- 🌱 Software Development at LeWagon Bootcamp (Ruby, Ruby on Rails, SQL, JavaScript).
 - 🍌 Actually Platanus Trainee
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/matias-cox-edwards-ab0b7916a
 
